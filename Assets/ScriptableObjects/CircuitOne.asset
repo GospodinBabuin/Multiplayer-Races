@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300a9f76eafa45b59c7b1459791bc0b4, type: 3}
+  m_Name: CircuitOne
+  m_EditorClassIdentifier: 
+  waypoints:
+  - {fileID: 4906651483722845713, guid: d7d707ba6867b0b4ca6060b1b613f767, type: 3}
+  - {fileID: 7569892341652585234, guid: a96ed5caf5d5fc74fa24717aef526c94, type: 3}
+  - {fileID: 6089976499020149479, guid: 68e6f4ff21a69eb418caec20d3371da5, type: 3}
+  - {fileID: 2978945136480339007, guid: 085c50ed1644e2148ac259e0562d78e3, type: 3}
+  - {fileID: 7280936749342418101, guid: 23ed19d64a945424ebb8f1143d4424e8, type: 3}
+  - {fileID: 1605724725761892002, guid: 1e2b872f12348a44ca964db15a2c39ab, type: 3}
+  - {fileID: 8473089029240211076, guid: 7a0fc12fb30d4c3489a43e8f9dcaeb14, type: 3}
+  - {fileID: 3387331978555796902, guid: bf9cd8076a11d7a49b7d1063a7b388cc, type: 3}
+  - {fileID: 6918088563032884651, guid: 61e2f5b707cc8b0498e4578186046bb9, type: 3}
+  - {fileID: 4894586418068174405, guid: a1b312c44c47acb46b076ca28a9a2a4a, type: 3}
+  spawnPoints:
+  - {fileID: 7831870957505736428, guid: ba411b1f70510fa4b8172b7be48e4949, type: 3}
+  - {fileID: 7084833848144247683, guid: 0d8416aa025cfea408f1a4c2677ed7de, type: 3}
+  - {fileID: 6475211707831073246, guid: c91727d10280f4945875fca2d3914883, type: 3}
+  - {fileID: 3123617355446609952, guid: 715a51a78bc2ac44dbd7f66987f1a1c7, type: 3}
+  - {fileID: 3142136665312099700, guid: 6967148d7ca92c5448fb1bc9b9042fc3, type: 3}
